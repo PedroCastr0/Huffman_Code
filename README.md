@@ -1,0 +1,1 @@
+# Huffman encoder em haskell
